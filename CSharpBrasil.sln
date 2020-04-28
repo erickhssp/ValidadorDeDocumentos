@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula2", "Aula2", "{BEF82F5D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComDatas", "TrabalhandoComDatas\TrabalhandoComDatas.csproj", "{F590EA82-A60E-47FE-86DA-674FBE9A72EC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula3", "Aula3", "{850FEA77-A15C-4C73-9855-A600030D9410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosPorExtenso", "NumerosPorExtenso\NumerosPorExtenso.csproj", "{F5D7BD3E-F057-450D-82E1-16B71287A46E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{F590EA82-A60E-47FE-86DA-674FBE9A72EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F590EA82-A60E-47FE-86DA-674FBE9A72EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F590EA82-A60E-47FE-86DA-674FBE9A72EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D7BD3E-F057-450D-82E1-16B71287A46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D7BD3E-F057-450D-82E1-16B71287A46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D7BD3E-F057-450D-82E1-16B71287A46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D7BD3E-F057-450D-82E1-16B71287A46E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{4B1B109F-5B7C-4AFD-8FBE-BB0FEF1CDD78} = {F4D7212C-AA09-4C1A-BD60-4A9717459602}
 		{F590EA82-A60E-47FE-86DA-674FBE9A72EC} = {BEF82F5D-17F7-48AB-A201-378E32902C34}
+		{F5D7BD3E-F057-450D-82E1-16B71287A46E} = {850FEA77-A15C-4C73-9855-A600030D9410}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F831454D-6F50-4756-905F-66FE7271976B}
